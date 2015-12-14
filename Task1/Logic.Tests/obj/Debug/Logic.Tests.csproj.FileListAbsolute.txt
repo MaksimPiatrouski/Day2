@@ -1,0 +1,10 @@
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\bin\Debug\Logic.Tests.dll
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\bin\Debug\Logic.Tests.pdb
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\bin\Debug\Logic.dll
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\bin\Debug\nunitlite.dll
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\bin\Debug\Logic.pdb
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\obj\Debug\Logic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\obj\Debug\Logic.Tests.dll
+C:\Users\Maksim_Piatrouski@epam.com\Desktop\Day2Tasks-master\Task1\Logic.Tests\obj\Debug\Logic.Tests.pdb
